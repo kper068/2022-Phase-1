@@ -136,3 +136,4 @@ As you go through and do these modules, you'll find that you need quite a few to
   - [X} Completed RESTful-API Workshop
   - [X] Completed Relational DB Workshop
   - [X] Completed C# Workshop
+  - [X] Completed HTML/CSS Workshop

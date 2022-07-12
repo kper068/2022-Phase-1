@@ -1,4 +1,16 @@
 body {
-    background-color: beige;
-    color: #800080;
+    background-color: purple;
+    color: white;
+}
+
+ul {
+    background-color: green;
+}
+
+#btn {
+    color: green;
+}
+
+.tbl {
+    background-color: red;
 }
